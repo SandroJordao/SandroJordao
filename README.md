@@ -2,7 +2,7 @@
 const sandroJordao = {
   role: "Full-Stack Developer",
   location: "Brasil 🇧🇷",
-  philosophy: "Integração entre design criativo e programação de alto nível",
+  philosophy: "Convergência entre design criativo e programação de alto nível",
   openTo: ["novos desafios", "colaborações", "projetos inovadores"]
 };
 ```
@@ -33,5 +33,5 @@ Sempre expandindo minhas habilidades e buscando a excelência na integração en
 ---
 
 <div align="center">
-  <i>"A qualidade superior vem da integração perfeita entre criatividade e código"</i>
+  <i>"A qualidade superior vem da harmonia perfeita entre criatividade e código"</i>
 </div>
