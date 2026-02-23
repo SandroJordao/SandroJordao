@@ -7,11 +7,11 @@ const sandroJordao = {
 };
 ```
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Desenvolvedor Full-Stack apaixonado por criar experiências digitais completas - do pixel perfeito no front-end até a arquitetura robusta no back-end. Acredito que a verdadeira qualidade surge quando design criativo encontra código de alto nível.
 
-## 🚀 Stack
+## Stack
 
 **Front-end**  
 Criando interfaces intuitivas, responsivas e visualmente agradáveis
@@ -19,11 +19,11 @@ Criando interfaces intuitivas, responsivas e visualmente agradáveis
 **Back-end**  
 Desenvolvendo sistemas seguros, performáticos e escaláveis
 
-## 🎯 Foco Atual
+## Foco Atual
 
 Sempre expandindo minhas habilidades e buscando a excelência na integração entre design e desenvolvimento - um diferencial que poucas empresas conseguem alcançar.
 
-## 📫 Vamos Conectar?
+## Vamos Conectar?
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandrojordao.com.br-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sandrojordao.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro_Jordão-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-diniz-jordao)
